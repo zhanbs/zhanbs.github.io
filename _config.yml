@@ -37,3 +37,5 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 encoding: utf-8
 
 port: 12346
+
+favicon: favicon.ico
